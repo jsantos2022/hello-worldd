@@ -1,2 +1,2 @@
 # hello-worldd
-This repository is for practicing the GitHub Flow.
+Im just chill guy for real for real.
